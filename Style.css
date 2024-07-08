@@ -1,0 +1,50 @@
+
+body {
+  background-color: white;
+  
+}
+
+header{ 
+	width: 30%;
+	float: center;
+	margin-left:450px;
+	color: black;
+	background-color: lightgray;
+	
+	
+  
+}
+main {
+	width: 45%;
+	float: left;
+	min-height: 0px;
+	margin-left:50px;
+	background-color: lightgray;;
+	
+}
+aside {
+	width:45%;
+	float: right;
+	min-height: 0px;
+	margin-right:50px;
+	background-color:lightgray;;
+
+}
+.align-center {
+	width: 100%;
+	float: right;
+	
+}
+footer{
+	width: 30%;
+	float: left;
+	margin-left:500px;
+	background-color: white;
+}
+.right-footer {
+	float: center;
+	background-color: lightgray;
+	margin-left:50px;
+	margin-right:50px;
+	
+}
